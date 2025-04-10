@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProverStore.Api.props" />
+</Project>

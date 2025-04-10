@@ -1,0 +1,6 @@
+@ProverStore.Api_HostAddress = https://localhost:44397
+
+GET {{ProverStore.Api_HostAddress}}/
+Accept: application/json
+
+###

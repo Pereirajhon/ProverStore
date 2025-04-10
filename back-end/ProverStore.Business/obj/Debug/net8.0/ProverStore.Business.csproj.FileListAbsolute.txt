@@ -1,0 +1,14 @@
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ProverStore.Business.csproj.AssemblyReference.cache
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ProverStore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ProverStore.Business.AssemblyInfoInputs.cache
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ProverStore.Business.AssemblyInfo.cs
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ProverStore.Business.csproj.CoreCompileInputs.cache
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\bin\Debug\net8.0\ProverStore.Business.deps.json
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\bin\Debug\net8.0\ProverStore.Business.runtimeconfig.json
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\bin\Debug\net8.0\ProverStore.Business.dll
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\bin\Debug\net8.0\ProverStore.Business.pdb
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ProverStore.Business.dll
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\refint\ProverStore.Business.dll
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ProverStore.Business.pdb
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ProverStore.Business.genruntimeconfig.cache
+C:\Users\jvper\source\repos\ProverStore\ProverStore.Business\obj\Debug\net8.0\ref\ProverStore.Business.dll
