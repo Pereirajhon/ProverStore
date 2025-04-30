@@ -1,0 +1,21 @@
+# ============ BACK-END (.NET) ============
+back-end/**/bin/
+back-end/**/obj/
+back-end/**/appsettings*.json
+back-end/.vs/
+
+# ============ FRONT-END (React) ============
+front-end/node_modules/
+front-end/.env*
+front-end/.npm/
+front-end/.yarn/
+
+# ============ GERAL ============
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# ============ ROOT ENV (caso existam) ============
+.env*
